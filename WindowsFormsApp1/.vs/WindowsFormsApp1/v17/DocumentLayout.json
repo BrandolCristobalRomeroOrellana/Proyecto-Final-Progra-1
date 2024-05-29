@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\allusercontorls\\uc_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:allusercontorls\\uc_updateitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\allusercontorls\\uc_placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:allusercontorls\\uc_placeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\allusercontorls\\uc_removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:allusercontorls\\uc_removeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|c:\\users\\brand\\onedrive\\documents\\cofee_virtual_shop_progra-1_exposicion_final\\windowsformsapp1\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FEE87BC-C49B-452A-BC69-731BD418D345}|WindowsFormsApp1.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_UpdateItems.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\AllUserContorls\\UC_UpdateItems.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_UpdateItems.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\AllUserContorls\\UC_UpdateItems.cs",
+              "RelativeToolTip": "AllUserContorls\\UC_UpdateItems.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:48:20.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_PlaceOrder.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\AllUserContorls\\UC_PlaceOrder.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_PlaceOrder.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\AllUserContorls\\UC_PlaceOrder.cs",
+              "RelativeToolTip": "AllUserContorls\\UC_PlaceOrder.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAApwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:48:14.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_RemoveItem.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\AllUserContorls\\UC_RemoveItem.cs",
+              "RelativeDocumentMoniker": "AllUserContorls\\UC_RemoveItem.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\AllUserContorls\\UC_RemoveItem.cs",
+              "RelativeToolTip": "AllUserContorls\\UC_RemoveItem.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAApwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:48:06.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:46:57.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAApwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:47:54.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Dashboard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Dashboard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:48:47.421Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\brand\\OneDrive\\Documents\\Cofee_Virtual_Shop_Progra-1_Exposicion_Final\\WindowsFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:31:14.503Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
